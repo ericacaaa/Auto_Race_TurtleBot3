@@ -1,0 +1,6 @@
+<launch>
+
+    <node pkg="detect" type="detect_traffic_light" name="detect_traffic_light" output="screen">
+        <remap from="/image_input" to="/camera/image/compressed"/>
+    </node>
+</launch>

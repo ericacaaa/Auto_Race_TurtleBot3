@@ -1,0 +1,20 @@
+hue_red_l: 145
+hue_red_h: 179
+saturation_red_l: 100
+saturation_red_h: 255
+lightness_red_l: 50
+lightness_red_h: 255
+
+hue_yellow_l: 20
+hue_yellow_h: 40
+saturation_yellow_l: 100
+saturation_yellow_h: 255
+lightness_yellow_l: 50
+lightness_yellow_h: 255 
+
+hue_green_l: 40
+hue_green_h: 100
+saturation_green_l: 124
+saturation_green_h: 255
+lightness_green_l: 33
+lightness_green_h: 244

@@ -1,0 +1,19 @@
+# true value
+top_x: 75 # (80) /100
+top_y: 40 #40  20 (0) /20
+bottom_x: 150 #140  120 (120) /300 
+bottom_y: 120 # (120) /100
+
+hue_white_l: 0
+hue_white_h: 179
+saturation_white_l: 0
+saturation_white_h: 34 # 34 / 65
+lightness_white_l: 185
+lightness_white_h: 255
+
+hue_yellow_l: 10
+hue_yellow_h: 75
+saturation_yellow_l: 30 # 30 / 100 
+saturation_yellow_h: 255
+lightness_yellow_l: 100
+lightness_yellow_h: 255
