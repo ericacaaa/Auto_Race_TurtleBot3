@@ -172,7 +172,7 @@ In this task, the robot should stop before the white-and-red level crossing bar.
   - By applying this controller, the robot could prevent overshooting the target point.
     - Also, avoiding rapid angular change that might jeopardize the lane detection or movement control, and providing a smooth control.
 
-$u(t)=K_{p}e(t)+K_i\int^t_0e(t)dt+K_d\frac{de(t)}{dt}$
+    $u(t)=K_{p}e(t)+K_i\int^t_0e(t)dt+K_d\frac{de(t)}{dt}$
 
 - In our program:  
     - Our Kp is adjusted gradually to find the most suitable when met with a turn or zig-zag like lanes.
