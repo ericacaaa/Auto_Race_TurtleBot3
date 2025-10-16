@@ -25,7 +25,7 @@
  Stop at least 60 mm in front of the stop bar and resume once it is lifted.
 
 
-6. unnel Navigation:  
+6. Tunnel Navigation:  
  Navigate the unlit tunnel (300 × 240 m entrance/exit), avoid five randomly placed obstacles, and exit to the finish line.
 
 ## For each task, we have specific control
